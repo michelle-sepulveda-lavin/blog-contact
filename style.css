@@ -1,0 +1,33 @@
+body {
+    background: #93395e;
+}
+
+.card-header {
+    background: #e86951;
+}
+
+#card {
+    font-family: 'Mulish', sans-serif;
+}
+
+h6 {
+    font-weight: bolder;
+}
+
+.form-control {
+    border:none;
+    border: 1px solid rgba(255, 208, 0, 0.877);
+    height: 20px;
+}
+
+.form-row {
+    margin-bottom: -15px;
+
+}
+#mensaje textarea {
+    height: 210px;
+ }
+
+#hisymbol {
+    height: 200px;
+}
